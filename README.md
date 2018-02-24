@@ -6,7 +6,7 @@ A simple Student Manager Webapp implemented using Flask.
        $ cd pyStudentManager
        $ python app.py
  
-Visit (https://localhost:5000) in your web browser.
+Visit (localhost:5000) in your web browser.
  
  
  
